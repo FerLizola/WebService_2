@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="naves">
+        <item>Falcon 1</item>
+        <item>Falcon 9</item>
+        <item>Falcon Heavy</item>
+    </string-array>
+</resources>
